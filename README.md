@@ -7,6 +7,9 @@ This is a set of 3 AHK scripts for Windows, AutoHotKey that make the process of 
 - **Middle mouse to click to drag window**: You can middleclick and drag anywhere in the browser and it will drag the window around.
 - **Opacity control**: ctrl + shift + scroll mouse to control the opacity of the screen
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_4IKLNtX1v4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 I've only made slight modifications to existing scripts I found from the internet and collated them here to make things easier for people.
 
 
