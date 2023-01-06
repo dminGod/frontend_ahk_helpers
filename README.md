@@ -25,7 +25,7 @@ I've only made slight modifications to existing scripts I found from the interne
 3 - Just right click and 'Run' <br/>
 ![image](https://user-images.githubusercontent.com/1503545/210941265-4a150927-6c3f-4a34-98f8-0ed38f137289.png)
 
-4 - If you want to stop running the script - press the arrow next to the time, find and exit the script
+4 - If you want to stop running the script - press the arrow next to the time, find and exit the script<br/>
 ![image](https://user-images.githubusercontent.com/1503545/210941411-b56724ac-524f-4891-bf95-9ee84e6b2efd.png)
 
 
